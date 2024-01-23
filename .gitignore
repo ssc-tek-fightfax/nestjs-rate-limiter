@@ -9,9 +9,6 @@
 npm-debug.log
 .DS_Store
 
-# dist
-/dist
-
 /coverage
 
 # Example NestJS
